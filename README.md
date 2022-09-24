@@ -9,7 +9,6 @@
   - Phone: +234 8073487154
   - WhatsApp: +234 7018977031, 
   - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
-  - 
 
 # CORE SKILLS
 ⭐ Python/Django <br/>
