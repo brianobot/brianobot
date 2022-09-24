@@ -12,6 +12,9 @@
 ⭐Javasript
 ⭐HTML | CSS | Bootstrap
 ⭐Docker
+⭐ ReactJS 
+⭐ HTML | CSS | Bootstrap | JavaScript | jQuery
+⭐ Front End Web Development
 
 
 
