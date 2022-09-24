@@ -8,13 +8,10 @@
 - 📫 How to reach me brianobot9@gmail.com, +234 7018977031, +234 8073487154
 
 # CORE SKILLS
-⭐Python/Django
-⭐Javasript
-⭐HTML | CSS | Bootstrap
-⭐Docker
-⭐ ReactJS 
-⭐ HTML | CSS | Bootstrap | JavaScript | jQuery
-⭐ Front End Web Development
+⭐Python/Django <br/>
+⭐Javasript <br/>
+⭐HTML | CSS | Bootstrap <br/>
+⭐Docker <br/>
 
 
 
