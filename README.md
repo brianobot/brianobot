@@ -1,4 +1,7 @@
 # Hi 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
+
+## Welcome to my code paradize where all codes are equal 
+
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
 - 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
