@@ -1,4 +1,5 @@
 # Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
+## Software Developer 💻
 
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
 - 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
