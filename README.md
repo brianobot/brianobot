@@ -10,12 +10,17 @@
   - WhatsApp: +234 7018977031, 
   - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
 
-# CORE SKILLS
+### CORE SKILLS
 ⭐ Python/Django <br/>
 ⭐ Backend Web Development <br/>
-⭐ Javasript <br/>
+⭐ Javascript <br/>
 ⭐ HTML | CSS | Bootstrap <br/>
 ⭐ Docker <br/>
+
+### LEARNING
+🤗 C <br/>
+🤗 Typescript <br/>
+
 
 
 
