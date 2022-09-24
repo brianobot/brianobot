@@ -1,15 +1,8 @@
 # Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
 ## Software Developer 💻
 
-- 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
-- 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
-- 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
-- 🤗 Do you have an idea in mind? Let me bring it to life 😎
-- 📫 How to reach me 
-  - Mail: ✉ brianobot9@gmail.com 
-  - Phone: +234 8073487154
-  - WhatsApp: +234 7018977031, 
-  - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
+I am fullstack development with specilization in backend web developement, i love developing open source codes that follow DRY approach and are easy to maintain.
+My favourite language is python.
 
 ### CORE SKILLS
 ⭐ Python/Django <br/>
@@ -21,6 +14,17 @@
 ### LEARNING
 🤗 C <br/>
 🤗 Typescript <br/>
+
+### More
+- 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
+- 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
+- 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
+- 🤗 Do you have an idea in mind? Let me bring it to life 😎
+- 📫 How to reach me 
+  - Mail: ✉ brianobot9@gmail.com 
+  - Phone: +234 8073487154
+  - WhatsApp: +234 7018977031, 
+  - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
 
 
 
