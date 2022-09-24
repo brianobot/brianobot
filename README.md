@@ -1,4 +1,4 @@
-# Hi 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
+# Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
 
 ## Welcome to my code paradize where all codes are equal 
 
@@ -7,12 +7,11 @@
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
 - 📫 How to reach me brianobot9@gmail.com, +234 7018977031, +234 8073487154
 
-### Tech Stack
-- Python/Django
-- Javasript
-- HTML/CSS
-- Docker
-- Bootstrap
+# CORE SKILLS
+⭐Python/Django
+⭐Javasript
+⭐HTML | CSS | Bootstrap
+⭐Docker
 
 
 
