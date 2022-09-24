@@ -1,4 +1,4 @@
-- 👋 #Hi, I’m @brianobot
+#👋 Hi, I’m @brianobot
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
 - 🌱 I am a graduate of Electrical and Electronic Engineering.
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
