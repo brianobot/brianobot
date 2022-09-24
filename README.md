@@ -1,14 +1,19 @@
 # Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
 
-## Welcome to my code paradize where all codes are equal 
-
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
 - 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
-- 📫 How to reach me brianobot9@gmail.com, +234 7018977031, +234 8073487154
+- 🤗 Do you have an idea in mind? Let me bring it to life 😎
+- 📫 How to reach me 
+  - Mail: ✉ brianobot9@gmail.com 
+  - Phone: +234 8073487154
+  - WhatsApp: +234 7018977031, 
+  - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
+  - 
 
 # CORE SKILLS
 ⭐ Python/Django <br/>
+⭐ Backend Web Development <br/>
 ⭐ Javasript <br/>
 ⭐ HTML | CSS | Bootstrap <br/>
 ⭐ Docker <br/>
