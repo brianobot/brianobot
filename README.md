@@ -1,7 +1,7 @@
 # Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
 ## Software Developer 💻
 
-I am a Fullstack development with specilization in backend web developement, i love developing open source codes that follow DRY approach and are easy to maintain.
+I am a Fullstack developer with specilization in backend web developement, i love developing open source codes that follow DRY approach and are easy to maintain.
 My favourite language is python.
 
 ### CORE SKILLS
