@@ -4,7 +4,7 @@
 I am a Fullstack software developer with specilization in backend web developement, i love developing open source codes that follow DRY approach and are easy to maintain.
 My favourite language is python.
 
-### CORE SKILLS
+### CORE SKILLS AND EXPERTIZE
 ⭐ Python/Django <br/>
 ⭐ Backend Web Development <br/>
 ⭐ Javascript <br/>
