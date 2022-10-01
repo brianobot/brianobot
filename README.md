@@ -5,11 +5,12 @@ I am a Fullstack software developer with specilization in backend web developeme
 My favourite language is python.
 
 ### CORE SKILLS AND EXPERTIZE
-⭐ Python/Django <br/>
+⭐ Python/Django Development  <br/>
 ⭐ Backend Web Development <br/>
-⭐ Javascript <br/>
+⭐️ Linux Command Line Operation <br/>
+⭐ Javascript Development <br/>
 ⭐ HTML | CSS | Bootstrap <br/>
-⭐ Docker <br/>
+⭐ Docker Operation<br/>
 
 ### LEARNING
 🤗 C <br/>
