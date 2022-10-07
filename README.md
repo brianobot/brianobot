@@ -4,14 +4,6 @@
 I am a Fullstack software developer with specilization in backend web developement, i love developing open source codes that follow DRY approach and are easy to maintain.
 My favourite language is python.
 
-### CORE SKILLS AND EXPERTIZE
-⭐ Python/Django Development  <br/>
-⭐ Backend Web Development <br/>
-⭐️ Linux Command Line Operation <br/>
-⭐ Javascript Development <br/>
-⭐ HTML | CSS | Bootstrap <br/>
-⭐ Docker Operation<br/>
-
 ### LEARNING
 🤗 C <br/>
 🤗 Typescript <br/>
@@ -28,6 +20,29 @@ My favourite language is python.
   - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
 
 
+## Profile Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true)]()
+
+<br> 
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=10&theme=tokyonight)]()
+
+## Featured Project
+- CustomMoneyDjangoModel
+- Galaxy Game 
+
+### CORE SKILLS AND EXPERTIZE
+⭐ ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=gold) <br/>
+⭐ ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)  <br/>
+⭐️ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br/>
+⭐ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
+⭐ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br/> 
+⭐ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/> 
+⭐ Bootstrap <br/>
+⭐ Docker Operation<br/>
+⭐ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
+⭐ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
 
 
 [^1]: [Madonna University](https://www.madonnauniversity.edu.ng/), Nigeria <br>
