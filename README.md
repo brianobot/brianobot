@@ -6,19 +6,24 @@ My favourite language is python.
 
 ### LEARNING
 🤗 C <br/>
+🤗 C++ <br/>
+🤗 Google Cloud Platform <br/>
+🤗 Kubernetes <br/>
 🤗 Typescript <br/>
 
 ### More
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
 - 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
-- 🤗 Do you have an idea in mind? Let me bring it to life 😎
+- 🤗 Do you have an idea in mind? Let me help you bring it to life 😎 (and do so elegantly)
 - 📫 How to reach me 
   - Mail: ✉ brianobot9@gmail.com 
-  - Phone: +234 8073487154
+  - Phone: 📱 +234 (0)8073487154
   - WhatsApp: +234 7018977031, 
-  - linkedin: [Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
-
+  - linkedin: ![Brian Obot](https://www.linkedin.com/in/brian-obot-924b49216/)
+  <!--
+  - Personal website: 🌐 ![www.brianobot.online](https://www.brianobot.online) 
+  -->
 
 ## Profile Stats
 
@@ -33,17 +38,16 @@ My favourite language is python.
 - Galaxy Game 
 
 ### CORE SKILLS AND EXPERTIZE
-⭐ ![Python](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=gold) <br/>
-⭐ ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)  <br/>
-⭐️ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br/>
-⭐ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
-⭐ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br/> 
-⭐ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/> 
-⭐ Bootstrap <br/>
-⭐ Docker Operation<br/>
-⭐ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
-⭐ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
-
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=gold)
+![Django](https://img.shields.io/badge/django-%234ea94b.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 [^1]: [Madonna University](https://www.madonnauniversity.edu.ng/), Nigeria <br>
 **NOTE**: *i can't be help responsible if the site is down, traffic can be an issue. But the school offline is always active 😁*
