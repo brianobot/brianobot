@@ -1,4 +1,4 @@
-# Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)-->
+# Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)--> ![Profile views](https://gpvc.arturio.dev/brianobot)
 ## Software Engineer 💻
 
 I am a Fullstack software developer with specialization in backend web developement, I love developing open source codes that follow DRY approach and are easy to maintain.
