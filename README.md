@@ -43,11 +43,11 @@ My favourite language is python.
 
 <br> 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=10&theme=tokyonight)]()
+[![My GitHub Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true)]()
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianobot&" alt="Brian Obot Streak-stats" /></p>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=15&theme=tokyonight)]()
 
 <br>
 
