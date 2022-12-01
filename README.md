@@ -45,6 +45,12 @@ My favourite language is python.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=10&theme=tokyonight)]()
 
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianobot&" alt="Brian Obot Streak-stats" /></p>
+
+<br>
+
 ## Featured Project
 - CustomMoneyDjangoModel
 - Galaxy Game 
