@@ -1,4 +1,4 @@
-# Hi there 😁👋🏾, I’m **Brian Obot**<!--(https://www.brianobot.online)--> ![Profile views](https://gpvc.arturio.dev/brianobot)
+# Hi there 😁👋🏾, I’m **Brian Obot**
 ## Software Engineer 💻
 
 I am a Fullstack software developer with specialization in backend web developement, I love developing open source codes that follow DRY approach and are easy to maintain.
@@ -25,7 +25,7 @@ My favourite language is python.
 
 ### More
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
-- 🌱 I am a graduate of Electrical and Electronic Engineering.[^1]
+- 🌱 I am a graduate of Electrical and Electronic Engineering.
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
 - 🤗 Do you have an idea in mind? Let me help you bring it to life 😎 (and do so elegantly)
 - 📫 How to reach me 
@@ -49,14 +49,9 @@ My favourite language is python.
 - CustomMoneyDjangoModel
 - Galaxy Game 
 
-[^1]: [Madonna University](https://www.madonnauniversity.edu.ng/), Nigeria <br>
-**NOTE**: *i can't be help responsible if the site is down, traffic can be an issue. But the school offline is always active 😁*
-
 <!---
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 ![Profile views](https://gpvc.arturio.dev/brianobot)
-
-
