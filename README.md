@@ -17,6 +17,7 @@ My favourite language is python.
 ![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### LEARNING
+😌 Graphql
 🤗 C <br/>
 🤗 C++ <br/>
 🤗 Google Cloud Platform <br/>
