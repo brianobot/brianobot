@@ -1,5 +1,5 @@
-# <> Hello 👋🏾, I’m **Brian Obot** <>
-## <> Software Engineer 💻<>
+# Hello 👋🏾, I’m **Brian Obot**
+## Software Engineer 💻
 
 I am a Fullstack software developer with specialization in backend web developement, I love developing open source codes that follow DRY approach and are easy to maintain.
 My favourite language is python.
