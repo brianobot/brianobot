@@ -1,8 +1,11 @@
-# Hello 👋🏾, I’m **Brian Obot**
-## Software Engineer 💻
+<h1 align="center"> Hello 👋🏾, I’m **Brian Obot** </h1>
+<h3 align="center"> Software Engineer 💻 </h3>
 
+<p>
 I am a Fullstack software developer with specialization in backend web developement, I love developing open source codes that follow DRY approach and are easy to maintain.
-My favourite language is python.
+</p>
+
+My favourite Language is python 🐍.
 
 ### CORE SKILLS AND EXPERTIZE
 ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=gold)
