@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋🏾, I’m **Brian Obot** </h1>
+<h1 align="center"> Hello 👋🏾, I’m <b> <a href="https://brianobot.github.io" target="_blank">Brian Obot</a></b> </h1>
 <h3 align="center"> Software Engineer 💻 </h3>
 
 <p>
