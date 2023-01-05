@@ -35,7 +35,7 @@ My favourite Language is python 🐍.
 - 📫 How to reach me 
   - Mail: ✉ brianobot9@gmail.com 
   - Phone: 📱 +234 (0)8073487154
-  - WhatsApp: +234 7018977031
+  - WhatsApp: +234 (0)7018977031
   <!--
   - Personal website: 🌐 ![www.brianobot.online](https://www.brianobot.online) 
   -->
