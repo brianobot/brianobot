@@ -65,6 +65,8 @@ My favourite Language is python 🐍.
 
 ## Featured Project
 - CustomMoneyDjangoModel
+- Audio Reader
+- Meta5 Trading script 
 - Galaxy Game 
 
 <!---
