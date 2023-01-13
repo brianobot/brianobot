@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer 💻 </h3>
 
 <p>
-I am a Fullstack software developer with specialization in backend web developement, I love developing open source codes that follow DRY approach and are easy to maintain.
+Fullstack Software Developer with specialization in Backend Web Developement, loves developing open source codes that follow DRY approach and are easy to maintain.
 </p>
 
 My favourite Language is python 🐍.
