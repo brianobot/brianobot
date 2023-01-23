@@ -5,7 +5,7 @@
 Fullstack Software Developer with specialization in Backend Web Developement, loves developing open source codes that follow DRY approach and are easy to maintain.
 </p>
 
-My favourite Language is python 🐍.
+My favourite Language is Python 🐍.
 
 ### CORE SKILLS AND EXPERTIZE
 ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=gold)
