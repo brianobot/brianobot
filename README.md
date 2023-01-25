@@ -21,7 +21,7 @@ My favourite Language is Python 🐍.
 
 ### LEARNING
 🤗 C <br/>
-🤗 C++ <br/>
+🤗 Microservices Technology <br>
 🤗 Google Cloud Platform <br/>
 🤗 Kubernetes <br/>
 🤗 Typescript <br/>
@@ -80,4 +80,3 @@ You can click the Preview link to take a look at your changes.
     alt="brianobot profile views"
   />
 </p>
-
