@@ -1,3 +1,5 @@
+<p align="center"><img src="https://media3.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif?cid=790b76116efcc7105ca49d858c320938328b0751a5b11355&rid=giphy.gif&ct=s" width="600" height="300"  /></p>
+
 <h1 align="center"> Hello 👋🏾, I’m <b>Brian Obot</b> </h1>
 <h3 align="center"> Software Engineer 💻 </h3>
 
