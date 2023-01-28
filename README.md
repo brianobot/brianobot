@@ -48,18 +48,12 @@ My favourite Language is Python 🐍.
 </p>
 
 ## Profile Stats
+<p align="center">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true" /></p></p><br\>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true" alt="my-github-activity-stats"/></p><br\>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=15&theme=tokyonight" /></p><br\>
+</p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true)]()
-
-<br> 
-
-[![My GitHub Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true)]()
-
-<br>
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=15&theme=tokyonight)]()
-
-<br>
 
 ## Featured Project
 - CustomMoneyDjangoModel
@@ -73,8 +67,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p>
-  <img width="150px"
-    src="https://gpvc.arturio.dev/brianobot"
-    alt="brianobot profile views"
-  />
+  <img src="https://gpvc.arturio.dev/brianobot" alt="brianobot profile views" width="150px" />
 </p>
