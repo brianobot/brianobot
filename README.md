@@ -8,8 +8,8 @@ Fullstack Software Developer with specialization in Backend Web Developement, lo
 My favourite Language is Python 🐍.
 
 ### CORE SKILLS AND EXPERTIZE
-![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=gold)
-![Django](https://img.shields.io/badge/django-%234ea94b.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
+<a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Django-234ea94B?style=for-the-badge&labelColor=black&logo=django&logoColor=white" alt="Django"/> </a> &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
