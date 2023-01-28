@@ -17,9 +17,9 @@ My favourite Language is Python 🐍.
 <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=white)
+<a href="#"> <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="Github"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white" alt="Docker"/> </a> &nbsp;
 
 ### LEARNING
 🤗 Microservices Technology <br>
