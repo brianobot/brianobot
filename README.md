@@ -29,7 +29,7 @@ My favourite Language is Python 🐍.
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
 - 🤗 Do you have an idea in mind? Let me help you bring it to life 😎 (and do so elegantly)
 - 📫 How to reach me 
-  - Mail: ✉ brianobot9@gmail.com 
+  - Email: ✉ brianobot9@gmail.com 
   - Phone: 📱 +234 (0)8073487154
   - WhatsApp: +234 (0)7018977031
   <!--
