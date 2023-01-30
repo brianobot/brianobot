@@ -7,7 +7,7 @@
 Fullstack Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently specializing as a backend web developer. Passionate about developing open-source codes that follow DRY approach and are easy to maintain.
 </p>
 
-Brian's Language is Python 🐍.
+Brian's favorite programming language is Python 🐍.
 
 ### CORE SKILLS AND EXPERTIZE
 <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
