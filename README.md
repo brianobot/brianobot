@@ -4,7 +4,7 @@
 <h3> Software Engineer 💻 </h3>
 
 <p>
-Fullstack Software Developer with specialization in Backend Web Developement, loves developing open source codes that follow DRY approach and are easy to maintain.
+Fullstack Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently specializing as a backend web developer. Passionate about developing open-source codes that follow DRY approach and are easy to maintain.
 </p>
 
 My favourite Language is Python 🐍.
