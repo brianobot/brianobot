@@ -24,6 +24,7 @@ Brian's favorite programming language is Python 🐍.
 ### LEARNING
 🤗 Microservices Technology <br>
 🤗 C <br/>
+😁 Cloud Dev <br/>
 
 ### More
 - 👀 I’m interested in Web Development, Networking, GUIs, and Algorithms and Marvel Movies
