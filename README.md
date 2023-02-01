@@ -10,7 +10,10 @@ Fullstack Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently s
 Brian's favorite programming language is Python 🐍.
 
 ### CORE SKILLS AND EXPERTIZE
-<div align="left">
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+<div>
 <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Django-234ea94B?style=for-the-badge&labelColor=black&logo=django&logoColor=white" alt="Django"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
