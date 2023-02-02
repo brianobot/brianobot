@@ -23,7 +23,6 @@ Brian's favorite programming language is Python 🐍.
 <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="Github"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white" alt="Docker"/> </a> &nbsp;
 </div>
 
 ### LEARNING
