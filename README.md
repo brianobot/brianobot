@@ -64,7 +64,6 @@ Brian's favorite programming language is Python 🐍.
 - CustomMoneyDjangoModel
 - Audio Reader
 - Meta5 Trading script 
-- Galaxy Game 
 
 <!---
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
