@@ -55,9 +55,10 @@ Brian's favorite programming language is Python 🐍.
 
 ## ⚙️ GitHub Stats
 <p align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true" /></p></p><br\>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true" alt="my-github-activity-stats"/></p><br\>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=15&theme=tokyonight" /></p><br\>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true"/></p><br/>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianobot&repo=github-readme-stats"/></p><br/> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true" alt="my-github-activity-stats"/></p><br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=15&theme=tokyonight" /></p><br/>
 </p>
 
 
