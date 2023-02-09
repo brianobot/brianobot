@@ -3,8 +3,7 @@
 <h1> Hello 👋🏾 ... <br/> I'm <b>Brian Obot</b> </h1>
 <h3> Software Engineer 💻 </h3>
 
-<p>
-Fullstack Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently specializing as a backend web developer. Passionate about developing open-source codes that follow DRY approach and are easy to maintain.
+<p>Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently focused as a backend web developer. Passionate about developing open-source codes that follow DRY approach and are easy to maintain.
 </p>
 
 Brian's favorite programming language is Python 🐍.
