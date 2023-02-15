@@ -60,6 +60,7 @@ Brian's favorite programming language is Python 🐍.
 
 
 ## Featured Project
+- Real time Chat Api
 - CustomMoneyDjangoModel
 - Audio Reader
 - Meta5 Trading script 
