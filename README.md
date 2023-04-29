@@ -3,7 +3,7 @@
 <p>I'm <b>Brian Obot</b>, A Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently focused as a Backend Web Developer. Passionate about developing open-source codes that follow DRY approach which are easy to maintain, Also focused on Developing Scalable, Dynamic and Efficient Systems.
 </p>
 
-Brian's favorite programming language is Python 🐍.
+My Favorite Programming Language is Python 🐍.
 
 ## ⚡CORE SKILLS AND EXPERTIZE
 
