@@ -80,7 +80,7 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/nigeriaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
