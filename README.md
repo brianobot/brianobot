@@ -1,20 +1,16 @@
-<p align="center"><img src="https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif" width="600" height="300"  /></p>
+## Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">...Welcome to my Github Profile. 
 
-
-<h1> Hello 👋🏾 ... <br/> I'm <b>Brian Obot</b> </h1>
-<h3> Software Engineer 💻 </h3>
-
-<p>Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently focused as a backend web developer. Passionate about developing open-source codes that follow DRY approach which are easy to maintain and focused on Developing Scalable, Dynamic and Efficient Systems.
+<p>I'm <b>Brian Obot</b>, A Software Developer based in Uyo, Akwa ibom state, Nigeria. Currently focused as a Backend Web Developer. Passionate about developing open-source codes that follow DRY approach which are easy to maintain, Also focused on Developing Scalable, Dynamic and Efficient Systems.
 </p>
 
 Brian's favorite programming language is Python 🐍.
 
-### CORE SKILLS AND EXPERTIZE
+## ⚡CORE SKILLS AND EXPERTIZE
 
-<img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+<!-- <img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/> -->
 
 <div>
-<a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Django-234ea94B?style=for-the-badge&labelColor=black&logo=django&logoColor=white" alt="Django"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=white" alt="JavaScript"/> </a> &nbsp;
@@ -22,13 +18,20 @@ Brian's favorite programming language is Python 🐍.
 <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="Github"/> </a> &nbsp;
-  <a href="#"> <img src="https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="Github"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Postman-orange.svg?style=for-the-badge&labelColor=black&logo=postman&logoColor=blue" alt="Postman"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Postgresql-%23121011.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Google Cloud-%23121011.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Heroku-purple.svg?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Arduino-%23121011.svg?style=for-the-badge&labelColor=black&logo=arduino&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/Digital Ocean-blue.svg?style=for-the-badge&labelColor=black&logo=digitalocean&logoColor=blue" alt="Docker"/> </a> &nbsp;
 </div>
 
-### LEARNING
-🤗 Microservices Technology <br>
-🤗 C <br/>
+## 📝 LEARNING
+🤗 Redis <br>
+🤗 Celery <br/>
 
 ### More
 - 👀 I’m interested in Web Development, Networking, and Algorithms and Marvel Movies
@@ -53,11 +56,10 @@ Brian's favorite programming language is Python 🐍.
 </p>
 
 ## ⚙️ GitHub Stats
-<p align="center">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true"/></p><br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true" alt="my-github-activity-stats"/></p><br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=5&theme=tokyonight&hide=html,css" /></p><br/>
-</p>
+
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true) &nbsp; &nbsp;
+![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true) <br/> <br/>
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=5&theme=tokyonight&hide=html,css)
 
 
 ## Featured Project
