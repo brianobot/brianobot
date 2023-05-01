@@ -21,7 +21,7 @@ My Favorite Programming Language is Python 🐍.
 <a href="#"> <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="Github"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Docker-blue.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=blue" alt="Docker"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Postman-orange.svg?style=for-the-badge&labelColor=black&logo=postman&logoColor=blue" alt="Postman"/> </a> &nbsp;
-<a href="#"> <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=blue" alt="Docker"/> </a> &nbsp;
+<a href="#"> <img src="https://img.shields.io/badge/C Programming-%23121011.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=blue" alt="Docker"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Postgresql-%23121011.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=blue" alt="Docker"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Google Cloud-%23121011.svg?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=blue" alt="Docker"/> </a> &nbsp;
 <a href="#"> <img src="https://img.shields.io/badge/Heroku-purple.svg?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Docker"/> </a> &nbsp;
