@@ -32,6 +32,8 @@ My Favorite Programming Language is Python 🐍.
 ## 📝 LEARNING
 🤗 Redis <br>
 🤗 Celery <br/>
+🤗 Go <br/>
+🤗 Solidity <br/>
 
 ## ➕ More ...
 - 👀 I’m interested in Web Development, Networking, and Algorithms and Marvel Movies
