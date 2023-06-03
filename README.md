@@ -12,7 +12,6 @@ My Favorite Programming Language is Python 🐍.
 
 ## 📝 LEARNING
 🤗 Redis <br>
-🤗 Celery <br/>
 🤗 Go <br/>
 🤗 Solidity <br/>
 
