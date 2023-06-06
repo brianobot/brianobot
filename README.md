@@ -37,7 +37,8 @@ My Favorite Programming Language is Python 🐍.
 ## ⚙️ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=brianobot&count_private=true&theme=tokyonight&showicons=true) &nbsp; &nbsp;
-![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true) <br/> <br/>
+<!--![Activity Stats](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=tokyonight&showicons=true) <br/> <br/>
+-->
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&langs_count=5&theme=tokyonight&hide=html,css)
 
 
