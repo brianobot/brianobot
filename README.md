@@ -51,10 +51,10 @@ brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p>
+<!--- <p>
   <img src="https://gpvc.arturio.dev/brianobot" alt="brianobot profile views" width="130px" />
 </p>
-
+-->
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
