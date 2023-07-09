@@ -42,6 +42,7 @@ My Favorite Programming Language is Python 🐍.
 
 ## Featured Project
 - ✨ Real time Chat Api
+- ✨ C Programming Learning Memo
 - ✨ CustomMoneyDjangoModel
 - ✨ Audio Reader
 - ✨ Meta5 Trading script 
