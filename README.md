@@ -7,7 +7,7 @@ My Favorite Programming Language is Python 🐍.
 
 ## ⚡CORE SKILLS AND EXPERTIZE
 
-[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,postgres,gcp,docker,bootstrap,c,heroku,arduino,nginx,nodejs,bash,css,fastapi,git,github,githubactions,html,fastapi,redis,linux,md,mysql,postman,powershell,regex,selenium,vim,vscode)](https://skillicons.dev)
+[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,typescript,react,postgres,gcp,docker,bootstrap,c,heroku,arduino,nginx,nodejs,bash,css,fastapi,git,github,githubactions,html,fastapi,redis,linux,md,mysql,postman,powershell,regex,selenium,vim,vscode)](https://skillicons.dev)
 
 
 ## 📝 LEARNING
