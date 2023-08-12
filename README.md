@@ -15,7 +15,7 @@ My Favorite Programming Language is Python 🐍.
 🤗 Solidity <br/>
 
 ## ➕ More ...
-- 👀 I’m interested in Web Development, Networking, and Algorithms and Marvel Cinematic Universe.
+- 👀 I’m interested in Web Development, Networking, and Algorithms and <s>Marvel Cinematic Universe</s>.
 - 🌱 I am a graduate of Electrical and Electronic Engineering.
 - 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
 - 🤗 Do you have an idea in mind? Let me help you bring it to life 😎 (and do so elegantly)
