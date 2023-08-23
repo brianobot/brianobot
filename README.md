@@ -13,6 +13,7 @@ My Favorite Programming Language is Python 🐍.
 ## 📝 LEARNING
 🤗 Go <br/>
 🤗 Solidity <br/>
+😁 Kafka <br/>
 
 ## ➕ More ...
 - 👀 I’m interested in Web Development, Networking, and Algorithms and <s>Marvel Cinematic Universe</s>.
