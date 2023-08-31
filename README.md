@@ -1,7 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">...Welcome to my Github Profile. 
 
-<p>I'm <b>Brian Obot</b>, A Software Engineer based in Uyo, Akwa ibom state, Nigeria. Currently focused as a Backend Web Developer. I am Passionate about developing open-source codes that follow DRY approach which are easy to maintain, Also focused on Developing Scalable, Dynamic and Efficient Systems.
-</p>
+<p>I'm <b>Brian Obot</b>...
 
 My Favorite Programming Language is Python 🐍.
 
