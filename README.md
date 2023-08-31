@@ -16,17 +16,7 @@ My Favorite Programming Language is Python 🐍.
 😁 Kafka <br/>
 😊 Kubernetes <br/>
 
-## ➕ More ...
-- 👀 I’m interested in Web Development, Networking, and Algorithms and <s>Marvel Cinematic Universe</s>.
-- 🌱 I am a graduate of Electrical and Electronic Engineering.
-- 💞️ I’m looking to collaborate on Web Based start-up projects, projects with high need for automation.
-- 🤗 Do you have an idea in mind? Let me help you bring it to life 😎 (and do so elegantly)
-- 📫 How to reach me 
-  - Email: ✉ brianobot9@gmail.com 
-  - Phone: 📱 +234 (0)8073487154
-  - WhatsApp: +234 (0)7018977031
-  
- ## Connect with me
+## Connect with me
 <p align="left">
 <a class="me-2" href="https://www.linkedin.com/in/brian-obot-924b49216/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="jsiqbal" height="30" width="40" />
