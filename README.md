@@ -10,10 +10,7 @@ My Favorite Programming Language is Python 🐍.
 
 
 ## 📝 LEARNING
-🤗 Go <br/>
-🤗 Solidity <br/>
-😁 Kafka <br/>
-😊 Kubernetes <br/>
+- a whole lot of things (Pray for me)
 
 ## Connect with me
 <p align="left">
