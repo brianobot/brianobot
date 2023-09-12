@@ -1,6 +1,7 @@
+
 ## Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">...Welcome to my Github Profile. 
 
-<p>I'm <b>Brian Obot</b>...
+<p align="center">I'm <b>Brian Obot</b>...
 
 ## ⚡CORE SKILLS AND EXPERTIZE
 
