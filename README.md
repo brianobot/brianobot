@@ -1,13 +1,10 @@
-<p align="center">
-    <h1>Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">...Welcome to my Github Profile. </h1>
-</p>
+<h1>Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> </h1>
 
-<p align="center">I'm <b>Brian Obot</b>...
+<p>I'm <b>Brian Obot</b>...
 
-## ⚡CORE SKILLS AND EXPERTIZE
+<h2> ⚡CORE SKILLS AND EXPERTIZE </h2>
 
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,rabbitmq,typescript,react,postgres,gcp,docker,bootstrap,c,heroku,arduino,nginx,nodejs,bash,css,fastapi,aws,git,github,githubactions,html,fastapi,redis,linux,md,mysql,postman,powershell,regex,markdown,selenium,vim,vscode)](https://skillicons.dev)
-
 
 ## 📝 LEARNING
 - a whole lot of things (Pray for me)
