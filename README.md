@@ -1,5 +1,6 @@
-
-## Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">...Welcome to my Github Profile. 
+<p align="center">
+    <h1>Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">...Welcome to my Github Profile. </h1>
+</p>
 
 <p align="center">I'm <b>Brian Obot</b>...
 
