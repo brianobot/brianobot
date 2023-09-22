@@ -1,13 +1,10 @@
 <h1>Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> </h1>
 
-<p>I'm <b>Brian Obot</b>...
+<p>I am <b>Brian Obot</b>
 
 <h2> ⚡CORE SKILLS AND EXPERTIZE </h2>
 
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,rabbitmq,typescript,react,postgres,gcp,docker,bootstrap,c,heroku,arduino,nginx,nodejs,bash,css,fastapi,aws,git,github,githubactions,html,fastapi,redis,linux,md,mysql,postman,powershell,regex,markdown,selenium,vim,vscode)](https://skillicons.dev)
-
-## 📝 LEARNING
-- a whole lot of things (say a Pray for me)
 
 ## Connect with me
 <p align="left">
@@ -17,17 +14,6 @@
 <a href="https://web.facebook.com/profile.php?id=100068591380321" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javascriptiqbal" height="30" width="40" /></a>
 </p>
-
-<!---
-brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<!--- <p>
-  <img src="https://gpvc.arturio.dev/brianobot" alt="brianobot profile views" width="130px" />
-</p>
--->
-
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
@@ -65,3 +51,8 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+<!---
+brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
