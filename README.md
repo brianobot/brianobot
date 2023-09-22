@@ -6,22 +6,6 @@
 
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,rabbitmq,typescript,react,postgres,gcp,docker,bootstrap,c,heroku,arduino,nginx,nodejs,bash,css,fastapi,aws,git,github,githubactions,html,fastapi,redis,linux,md,mysql,postman,powershell,regex,markdown,selenium,vim,vscode)](https://skillicons.dev)
 
-## Connect with me
-<p align="left">
-<a class="me-2" href="https://www.linkedin.com/in/brian-obot-924b49216/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="jsiqbal" height="30" width="40" />
- </a>
-<a href="https://web.facebook.com/profile.php?id=100068591380321" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javascriptiqbal" height="30" width="40" /></a>
-</p>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=brianobot&label=Profile%20Views&color=1&icon=2&pretty=true" />
-</a>
-</div>
-
-
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 
