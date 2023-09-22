@@ -1,6 +1,6 @@
 <h1>Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> </h1>
 
-<p>I am <b>Brian Obot</b>
+<p>I am <b>[Brian Obot](https://brianobot.github.io/)</b>
 
 <h2> ⚡CORE SKILLS AND EXPERTIZE </h2>
 
