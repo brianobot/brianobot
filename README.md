@@ -1,4 +1,4 @@
-<h1>Hello there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> </h1>
+<h1> Hello there! 🌟</h1> 
 
 I am [**Brian Obot 🦉**](https://brianobot.github.io/)
 
