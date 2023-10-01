@@ -2,7 +2,7 @@
 
 I am [**Brian Obot 🦉**](https://brianobot.github.io/)
 
-<h2> ⚡CORE SKILLS AND EXPERTIZE </h2>
+<h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,rabbitmq,typescript,react,postgres,gcp,docker,bootstrap,c,heroku,arduino,nginx,nodejs,bash,css,fastapi,aws,git,github,githubactions,html,redis,linux,md,mysql,postman,powershell,regex,markdown,selenium,vim,vscode)](https://skillicons.dev)
 
