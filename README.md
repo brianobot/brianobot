@@ -1,6 +1,6 @@
 <h1> Hello there! 🌟</h1> 
 
-I am [**Brian Obot 🦉**](https://brianobot.github.io/)
+I am [**Brian Obot 🦉**](https://brianobot.github.io/)! 
 
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
