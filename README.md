@@ -1,6 +1,6 @@
 <h1> Hello there! 🌟</h1> 
 
-I am [**Brian Obot 🦉**](https://brianobot.github.io/)! A Passionate Software Developer currently focused on building my skills.
+I am [**Brian Obot 🦉**](https://brianobot.github.io/)! A Passionate Software Developer currently focused on building my skills 🚀.
 
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
