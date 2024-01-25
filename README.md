@@ -1,4 +1,4 @@
-<h1> Hello there! 🌟</h1> 
+<h1> Hello there! 👋🏾</h1> 
 
 I am [**Brian Obot 🦉**](https://brianobot.github.io/)! A Passionate Software Developer currently focused on building my skills 🚀.
 
