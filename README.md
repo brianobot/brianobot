@@ -4,7 +4,7 @@ I am [**Brian Obot 🦉**](https://brianobot.github.io/)! A Passionate Software 
 
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
-[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,postman,linux,js,bash,git,github,html,vscode,php,laravel,typescript,react,postgres,gcp,docker,bootstrap,c,arduino,nginx,nodejs,css,fastapi,aws,githubactions,md,mysql,regex,markdown)](https://skillicons.dev)
+[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,postman,linux,js,bash,git,github,docker,html,vscode,php,laravel,typescript,react,postgres,gcp,bootstrap,c,arduino,nginx,nodejs,css,fastapi,aws,githubactions,md,mysql,regex,markdown)](https://skillicons.dev)
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
