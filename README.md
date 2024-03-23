@@ -1,6 +1,6 @@
 <h1> Hello there! 👋🏾</h1> 
 
-I am [**Brian Obot 🦉**](https://brianobot.github.io/)! A Passionate Software Developer currently focused on learning and building my skills 🚀.
+👋 Hi there! I'm [**Brian Obot 🦉**](https://brianobot.github.io/)!, a dedicated software developer on a mission to learn, grow, and build amazing things 🚀. With a strong passion for programming, I'm constantly expanding my skills and knowledge to tackle new challenges and create innovative solutions. Join me on this exciting journey as we explore the world of software development together! 💻🌟
 
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
