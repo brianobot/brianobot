@@ -7,6 +7,9 @@ I am [**Brian Obot 🦉**](https://brianobot.github.io/)! A Passionate Software 
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,linux,git,github,postman,php,laravel,bash,docker,html,vscode,typescript,react,postgres,gcp,bootstrap,c,arduino,nginx,nodejs,css,fastapi,aws,githubactions,md,mysql,regex,markdown)](https://skillicons.dev)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
+2. 💪 Opened PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
+3. 🗣 Commented on [#1](https://github.com/Ajibson/todo-api/pull/1#issuecomment-1879638829) in [Ajibson/todo-api](https://github.com/Ajibson/todo-api)
 <!--END_SECTION:activity-->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
