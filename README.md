@@ -8,9 +8,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
-2. 💪 Opened PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
-3. 🗣 Commented on [#1](https://github.com/Ajibson/todo-api/pull/1#issuecomment-1879638829) in [Ajibson/todo-api](https://github.com/Ajibson/todo-api)
+1. 💪 Opened PR [#920](https://github.com/shyamtawli/devFind/pull/920) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
+2. 🎉 Merged PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
+3. 💪 Opened PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
 <!--END_SECTION:activity-->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
