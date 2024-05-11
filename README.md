@@ -7,7 +7,7 @@
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,linux,git,github,postman,php,laravel,bash,docker,html,vscode,typescript,react,postgres,gcp,bootstrap,c,arduino,nginx,nodejs,css,fastapi,aws,githubactions,md,mysql,regex,markdown)](https://skillicons.dev)
 
 ## 📝 Learning
-- Rust 🦀
+- [Rust 🦀](https://github.com/brianobot/learning_rust)
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
