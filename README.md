@@ -6,6 +6,9 @@
  
 [![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,linux,git,github,postman,php,laravel,bash,docker,html,vscode,typescript,react,postgres,gcp,bootstrap,c,arduino,nginx,nodejs,css,fastapi,aws,githubactions,md,mysql,regex,markdown)](https://skillicons.dev)
 
+## Learning
+- Rust 🦀
+
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#920](https://github.com/shyamtawli/devFind/pull/920) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
