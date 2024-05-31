@@ -4,7 +4,7 @@
 
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
-[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,linux,laravel,git,html,css,docker)](https://skillicons.dev)
+[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,rust,js,linux,laravel,git,html,css,docker)](https://skillicons.dev)
 
 ## 📝 Learning
 - [Rust 🦀](https://github.com/brianobot/learning_rust)
