@@ -9,6 +9,11 @@
 ## 📝 Learning
 - [Rust 🦀](https://github.com/brianobot/learning_rust)
 
+<!-- ## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css)](https://github.com/brianobot/github-readme-stats)
+-->
+
+
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#920](https://github.com/shyamtawli/devFind/pull/920) in [shyamtawli/devFind](https://github.com/shyamtawli/devFind)
