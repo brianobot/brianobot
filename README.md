@@ -15,8 +15,8 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/brianobot/school-of-solana/pull/1) in [brianobot/school-of-solana](https://github.com/brianobot/school-of-solana)
-2. 🎉 Merged PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
+1. 💪 Opened PR [#1](https://github.com/brianobot/telegram_mini_app_api/pull/1) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
+2. 💪 Opened PR [#1](https://github.com/brianobot/school-of-solana/pull/1) in [brianobot/school-of-solana](https://github.com/brianobot/school-of-solana)
 3. 💪 Opened PR [#1](https://github.com/brianobot/chirpers/pull/1) in [brianobot/chirpers](https://github.com/brianobot/chirpers)
 <!--END_SECTION:activity-->
 
