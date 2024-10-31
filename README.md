@@ -15,9 +15,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/brianobot/telegram_mini_app_api/pull/21) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
-2. 💪 Opened PR [#21](https://github.com/brianobot/telegram_mini_app_api/pull/21) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
-3. 🎉 Merged PR [#20](https://github.com/brianobot/telegram_mini_app_api/pull/20) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
+1. 🎉 Merged PR [#22](https://github.com/brianobot/telegram_mini_app_api/pull/22) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
+2. 💪 Opened PR [#22](https://github.com/brianobot/telegram_mini_app_api/pull/22) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
+3. 🎉 Merged PR [#21](https://github.com/brianobot/telegram_mini_app_api/pull/21) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
 <!--END_SECTION:activity-->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
