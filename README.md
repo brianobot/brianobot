@@ -9,6 +9,11 @@
 ## 📝 Learning
 - [Rust 🦀](https://github.com/brianobot/learning_rust)
 
+## **Github Stats**
+ <a href="https://brianobot.github.io">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true" />
+</a>  
+
  ## 📊 Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css)](https://github.com/brianobot/github-readme-stats)
 
