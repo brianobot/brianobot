@@ -58,7 +58,12 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
 <!-- below a hash from a string, containgin a message, if you can find this, there is great reward waiting on you --->
 9bdd8b0df56e24314bcef06b4fd6ef93e49fe45e8c6c5705296833e509a25f4c
 <!---
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
+<!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
