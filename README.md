@@ -21,9 +21,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brianobot/turbin3_pre_task_ts/pull/1) in [brianobot/turbin3_pre_task_ts](https://github.com/brianobot/turbin3_pre_task_ts)
-2. 💪 Opened PR [#1](https://github.com/brianobot/turbin3_pre_task_ts/pull/1) in [brianobot/turbin3_pre_task_ts](https://github.com/brianobot/turbin3_pre_task_ts)
-3. 🎉 Merged PR [#26](https://github.com/brianobot/telegram_mini_app_api/pull/26) in [brianobot/telegram_mini_app_api](https://github.com/brianobot/telegram_mini_app_api)
+1. 🎉 Merged PR [#1](https://github.com/brianobot/learning_rust/pull/1) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+2. 💪 Opened PR [#1](https://github.com/brianobot/learning_rust/pull/1) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+3. 🎉 Merged PR [#1](https://github.com/brianobot/turbin3_pre_task_ts/pull/1) in [brianobot/turbin3_pre_task_ts](https://github.com/brianobot/turbin3_pre_task_ts)
 <!--END_SECTION:activity-->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
