@@ -21,9 +21,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/brianobot/TURBIN3-Q1-25/pull/7) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
-2. 💪 Opened PR [#7](https://github.com/brianobot/TURBIN3-Q1-25/pull/7) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
-3. 🎉 Merged PR [#6](https://github.com/brianobot/TURBIN3-Q1-25/pull/6) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
+1. 🎉 Merged PR [#18](https://github.com/brianobot/crowd_fund_frontend/pull/18) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
+2. 🎉 Merged PR [#19](https://github.com/brianobot/crowd_fund_frontend/pull/19) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
+3. 🎉 Merged PR [#7](https://github.com/brianobot/TURBIN3-Q1-25/pull/7) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
 <!--END_SECTION:activity-->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
