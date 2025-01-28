@@ -22,9 +22,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/brianobot/crowd_fund_frontend/pull/24) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
-2. 🎉 Merged PR [#15](https://github.com/brianobot/crowd_fund_frontend/pull/15) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
-3. 🎉 Merged PR [#20](https://github.com/brianobot/crowd_fund_frontend/pull/20) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
+1. 🎉 Merged PR [#2](https://github.com/brianobot/C_learning/pull/2) in [brianobot/C_learning](https://github.com/brianobot/C_learning)
+2. 🎉 Merged PR [#24](https://github.com/brianobot/crowd_fund_frontend/pull/24) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
+3. 🎉 Merged PR [#15](https://github.com/brianobot/crowd_fund_frontend/pull/15) in [brianobot/crowd_fund_frontend](https://github.com/brianobot/crowd_fund_frontend)
 <!--END_SECTION:activity-->
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
