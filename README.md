@@ -9,6 +9,7 @@
 ## 📝 Learning
 - [Rust 🦀](https://github.com/brianobot/learning_rust)
 - [Anchor ⚓️](https://github.com/coral-xyz/anchor)
+- [Solana](https://solana.com)
 
 <!--## **Github Stats**
  <a href="https://brianobot.github.io">
