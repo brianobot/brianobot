@@ -11,13 +11,11 @@
 - [Anchor ⚓️](https://github.com/coral-xyz/anchor)
 - [Solana](https://solana.com)
 
-**Github Stats**
- <a href="https://brianobot.github.io">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true" />
-</a>  
+## 📈 Github Stats <br>
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true" width=50%/>
 
- ## 📊 Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css)](https://github.com/brianobot/github-readme-stats)
+<!-- ## 📊 Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css" width=50%/>
 
 
 ## Recent Open Source Activities ⚡️
