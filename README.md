@@ -1,6 +1,6 @@
 <h1> Hello there! 👋🏾</h1> 
 
-👋 Hi there! I'm [**Brian Obot 🦉**](https://brianobot.github.io/)!, A Software Engineer on a mission to learn, grow, and build amazing things 🚀. With a strong passion for programming, I'm constantly expanding my skills and knowledge to tackle new challenges and create innovative solutions. Join me on this exciting journey as we explore the world of 1s and 0s together! 🌟
+👋 Hi there! I'm [**Brian Obot 🦉**](https://brianobot.github.io/)!, I am a Human.
 
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
  
