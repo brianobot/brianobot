@@ -2,21 +2,19 @@
 
 👋 Hi there! I'm [**Brian Obot 🦉**](https://brianobot.github.io/)!, I am a Human.
 
+ <!--
 <h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
- 
-[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,js,linux,git,html,css,docker)](https://skillicons.dev)
 
-## 📝 Learning
-- [Rust 🦀](https://github.com/brianobot/learning_rust)
-- [Anchor ⚓️](https://github.com/coral-xyz/anchor)
-- [Solana](https://solana.com)
-
-## 📈 Github Stats <br>
+ <!--
+[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,rust,js,linux,git,html,css,docker)](https://skillicons.dev)
+-->
+<!-- ## 📈 Github Stats <br>
  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true" width=50%/>
-
+-->
 <!-- ## 📊 Language Stats -->
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css" width=50%/>
-
+-->
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
@@ -25,6 +23,7 @@
 3. 🎉 Merged PR [#35](https://github.com/brianobot/TURBIN3-Q1-25/pull/35) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
 <!--END_SECTION:activity-->
 
+ <!--
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
 -------------------------------------------------------------------------------
 <div>
@@ -53,14 +52,18 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+ <!--
 
 <!-- below a hash from a string, containgin a message, if you can find this, there is great reward waiting on you --->
 9bdd8b0df56e24314bcef06b4fd6ef93e49fe45e8c6c5705296833e509a25f4c
 <!---
 -->
+
+ <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+ <!--
 
 <!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
