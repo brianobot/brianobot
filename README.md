@@ -1,13 +1,7 @@
 <h1> Hello there! 👋🏾</h1> 
 
-👋 Hi there! I'm [**Brian Obot 🦉**](https://brianobot.github.io/)!, I am a Human.
+👋 Hi there! I'm [**Brian Obot 🦉**](https://brianobot.github.io/)!, I'm a Human.
 
- <!--
-<h2> ⚡ CORE SKILLS AND EXPERTIZE </h2>
-
- <!--
-[![⚡CORE SKILLS AND EXPERTIZE](https://skillicons.dev/icons?i=python,django,rust,js,linux,git,html,css,docker)](https://skillicons.dev)
--->
 <!-- ## 📈 Github Stats <br>
  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true" width=50%/>
 -->
@@ -22,48 +16,6 @@
 2. 💪 Opened PR [#36](https://github.com/brianobot/TURBIN3-Q1-25/pull/36) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
 3. 🎉 Merged PR [#35](https://github.com/brianobot/TURBIN3-Q1-25/pull/35) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
 <!--END_SECTION:activity-->
-
- <!--
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com)
--------------------------------------------------------------------------------
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/nigeriaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
- <!--
-
-<!-- below a hash from a string, containgin a message, if you can find this, there is great reward waiting on you --->
-9bdd8b0df56e24314bcef06b4fd6ef93e49fe45e8c6c5705296833e509a25f4c
-<!---
--->
-
- <!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
- <!--
 
 <!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
