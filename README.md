@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/brianobot/crowdfi_revamped/pull/5) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
-2. 💪 Opened PR [#5](https://github.com/brianobot/crowdfi_revamped/pull/5) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
-3. 🎉 Merged PR [#4](https://github.com/brianobot/crowdfi_revamped/pull/4) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
+1. 🎉 Merged PR [#6](https://github.com/brianobot/crowdfi_revamped/pull/6) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
+2. 💪 Opened PR [#6](https://github.com/brianobot/crowdfi_revamped/pull/6) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
+3. 🎉 Merged PR [#5](https://github.com/brianobot/crowdfi_revamped/pull/5) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
 <!--END_SECTION:activity-->
 
 <!--
