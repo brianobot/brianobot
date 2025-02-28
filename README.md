@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/1) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
-2. 💪 Opened PR [#1](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/1) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
-3. 🎉 Merged PR [#13](https://github.com/brianobot/crowdfi_revamped/pull/13) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
+1. 🎉 Merged PR [#2](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/2) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
+2. 💪 Opened PR [#2](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/2) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
+3. 🎉 Merged PR [#1](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/1) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
 <!--END_SECTION:activity-->
 
 <!--
