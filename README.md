@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/fido1hn/Turbin3-Q1-2025/pull/1#issuecomment-2692581839) in [fido1hn/Turbin3-Q1-2025](https://github.com/fido1hn/Turbin3-Q1-2025)
-2. 🎉 Merged PR [#8](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/8) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
-3. 💪 Opened PR [#8](https://github.com/brianobot/solana-developer-bootcamp-2024/pull/8) in [brianobot/solana-developer-bootcamp-2024](https://github.com/brianobot/solana-developer-bootcamp-2024)
+1. 🎉 Merged PR [#49](https://github.com/brianobot/TURBIN3-Q1-25/pull/49) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
+2. 💪 Opened PR [#49](https://github.com/brianobot/TURBIN3-Q1-25/pull/49) in [brianobot/TURBIN3-Q1-25](https://github.com/brianobot/TURBIN3-Q1-25)
+3. 🎉 Merged PR [#15](https://github.com/brianobot/crowdfi_revamped/pull/15) in [brianobot/crowdfi_revamped](https://github.com/brianobot/crowdfi_revamped)
 <!--END_SECTION:activity-->
 
 <!--
