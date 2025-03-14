@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brianobot/learning_axum-rs-/pull/2) in [brianobot/learning_axum-rs-](https://github.com/brianobot/learning_axum-rs-)
-2. 💪 Opened PR [#2](https://github.com/brianobot/learning_axum-rs-/pull/2) in [brianobot/learning_axum-rs-](https://github.com/brianobot/learning_axum-rs-)
-3. 🎉 Merged PR [#1](https://github.com/brianobot/learning_axum-rs-/pull/1) in [brianobot/learning_axum-rs-](https://github.com/brianobot/learning_axum-rs-)
+1. 🎉 Merged PR [#3](https://github.com/brianobot/learning_axum-rs-/pull/3) in [brianobot/learning_axum-rs-](https://github.com/brianobot/learning_axum-rs-)
+2. 💪 Opened PR [#3](https://github.com/brianobot/learning_axum-rs-/pull/3) in [brianobot/learning_axum-rs-](https://github.com/brianobot/learning_axum-rs-)
+3. 🎉 Merged PR [#2](https://github.com/brianobot/learning_axum-rs-/pull/2) in [brianobot/learning_axum-rs-](https://github.com/brianobot/learning_axum-rs-)
 <!--END_SECTION:activity-->
 
 <!--
