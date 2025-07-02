@@ -7,6 +7,15 @@
 3. 🎉 Merged PR [#2](https://github.com/brianobot/flappy_bird_with_bevy/pull/2) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
 <!--END_SECTION:activity-->
 
+## 📈 GitHub Stats  
+<div>  
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="50%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css&theme=tokyonight" width="50%" />  
+</div>  
+
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+</p>
 <!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
