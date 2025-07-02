@@ -9,8 +9,8 @@
 
 ## 📈 GitHub Stats  
 <div>  
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="50%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css&theme=tokyonight" width="50%" />  
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css&theme=tokyonight" width="48%" height="250px"/>  
 </div>  
 
 <p align="left">  
