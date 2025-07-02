@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/brianobot/flappy_bird_with_bevy/pull/3) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
-2. 💪 Opened PR [#3](https://github.com/brianobot/flappy_bird_with_bevy/pull/3) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
-3. 🎉 Merged PR [#2](https://github.com/brianobot/flappy_bird_with_bevy/pull/2) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
+1. 🎉 Merged PR [#4](https://github.com/brianobot/flappy_bird_with_bevy/pull/4) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
+2. 💪 Opened PR [#4](https://github.com/brianobot/flappy_bird_with_bevy/pull/4) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
+3. 🎉 Merged PR [#3](https://github.com/brianobot/flappy_bird_with_bevy/pull/3) in [brianobot/flappy_bird_with_bevy](https://github.com/brianobot/flappy_bird_with_bevy)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
