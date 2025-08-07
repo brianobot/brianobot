@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/RexDavid06/MovieApi/pull/1) in [RexDavid06/MovieApi](https://github.com/RexDavid06/MovieApi)
-2. 🎉 Merged PR [#4](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy/pull/4) in [Personal-Bevy-Games/space_invaders_with_bevy](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy)
-3. 💪 Opened PR [#4](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy/pull/4) in [Personal-Bevy-Games/space_invaders_with_bevy](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy)
+1. 💪 Opened PR [#13](undefined) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+2. 💪 Opened PR [#4](undefined) in [Personal-Bevy-Games/space_invaders_with_bevy](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy)
+3. 💪 Opened PR [#3](undefined) in [Personal-Bevy-Games/space_invaders_with_bevy](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
