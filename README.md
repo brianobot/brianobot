@@ -7,7 +7,7 @@
 3. 💪 Opened PR [#4](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy/pull/4) in [Personal-Bevy-Games/space_invaders_with_bevy](https://github.com/Personal-Bevy-Games/space_invaders_with_bevy)
 <!--END_SECTION:activity-->
 
-## 📈 GitHub Stats  
+<!-- ## 📈 GitHub Stats  
 <div>  
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&layout=compact&hide=html,css&theme=tokyonight" width="48%" height="250px"/>  
@@ -16,7 +16,7 @@
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
-
+-->
 <a href="https://mattrighetti.com/about">Inspiration</a>
 <!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
