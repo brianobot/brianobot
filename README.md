@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
-2. 💪 Opened PR [#3](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
-3. ❗ Opened issue [#1](https://github.com/brianobot/redis-clone-python/issues/1) in [brianobot/redis-clone-python](https://github.com/brianobot/redis-clone-python)
+1. 💪 Opened PR [#5](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
+2. 💪 Opened PR [#4](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
+3. 💪 Opened PR [#3](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
 <!--END_SECTION:activity-->
 
 <!-- ## 📈 GitHub Stats  
