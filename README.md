@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
-2. 💪 Opened PR [#4](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
-3. 💪 Opened PR [#3](undefined) in [brianobot/comprehensive_rust_seminar](https://github.com/brianobot/comprehensive_rust_seminar)
+1.  Assigned issue [#1](https://github.com/brianobot/fastapi-project-gen8/issues/1) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+2.  Labeled issue [#1](https://github.com/brianobot/fastapi-project-gen8/issues/1) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+3.  Labeled issue [#1](https://github.com/brianobot/fastapi-project-gen8/issues/1) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
