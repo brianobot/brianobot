@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/brianobot/fastapi-project-gen8/pull/4#issuecomment-3641038624) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-2. 🗣 Commented on [#1](https://github.com/brianobot/fastAPI_project_structure/pull/1#issuecomment-3613384059) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
-3. ❗ Opened issue [#3](https://github.com/brianobot/fastapi-project-gen8/issues/3) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+1. 🚀 Published release [fastapi-gen8-0.0.4](https://github.com/brianobot/fastapi-project-gen8/releases/tag/0.0.4) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+2. 🗣 Commented on [#4](https://github.com/brianobot/fastapi-project-gen8/pull/4#issuecomment-3641038624) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+3. 🗣 Commented on [#1](https://github.com/brianobot/fastAPI_project_structure/pull/1#issuecomment-3613384059) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
