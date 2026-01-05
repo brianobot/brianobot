@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Rwinkah/poly-rc/pull/4) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
-2. 🎉 Merged PR [#1](https://github.com/Rwinkah/poly-rc/pull/1) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
-3. 💪 Opened PR [#1](https://github.com/Rwinkah/poly-rc/pull/1) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
+1. 🎉 Merged PR [#4](https://github.com/Rwinkah/poly-rc/pull/4) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
+2. 💪 Opened PR [#4](https://github.com/Rwinkah/poly-rc/pull/4) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
+3. 🎉 Merged PR [#1](https://github.com/Rwinkah/poly-rc/pull/1) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
