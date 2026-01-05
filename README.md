@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/brianobot/fastapi-project-gen8/pull/8) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-2. 🚀 Published release [fastapi-gen8-0.0.7](https://github.com/brianobot/fastapi-project-gen8/releases/tag/0.0.7) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-3. 🎉 Merged PR [#7](https://github.com/brianobot/fastapi-project-gen8/pull/7) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+1. 🎉 Merged PR [#8](https://github.com/brianobot/fastapi-project-gen8/pull/8) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+2. 💪 Opened PR [#8](https://github.com/brianobot/fastapi-project-gen8/pull/8) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+3. 🚀 Published release [fastapi-gen8-0.0.7](https://github.com/brianobot/fastapi-project-gen8/releases/tag/0.0.7) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
