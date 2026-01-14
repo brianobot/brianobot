@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Rwinkah/poly-rc/pull/8) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
-2. 💪 Opened PR [#8](https://github.com/Rwinkah/poly-rc/pull/8) in [Rwinkah/poly-rc](https://github.com/Rwinkah/poly-rc)
-3. 🎉 Merged PR [#14](https://github.com/brianobot/learning_rust/pull/14) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+1. 🚀 Published release [fastapi-gen8-0.0.8](https://github.com/brianobot/fastapi-project-gen8/releases/tag/0.0.8) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+2. 🎉 Merged PR [#9](https://github.com/brianobot/fastapi-project-gen8/pull/9) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+3. 💪 Opened PR [#9](https://github.com/brianobot/fastapi-project-gen8/pull/9) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
