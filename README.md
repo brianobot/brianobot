@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/brianobot/learning_rust/pull/18) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
-2. 💪 Opened PR [#18](https://github.com/brianobot/learning_rust/pull/18) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
-3. 🎉 Merged PR [#17](https://github.com/brianobot/learning_rust/pull/17) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+1. 🎉 Merged PR [#10](https://github.com/brianobot/fastapi-project-gen8/pull/10) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+2. 💪 Opened PR [#10](https://github.com/brianobot/fastapi-project-gen8/pull/10) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+3. 🎉 Merged PR [#19](https://github.com/brianobot/learning_rust/pull/19) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
