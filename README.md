@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course/pull/2) in [brianobot/multi-ai-agents-systems-with-crewai-course](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course)
-2. 💪 Opened PR [#2](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course/pull/2) in [brianobot/multi-ai-agents-systems-with-crewai-course](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course)
-3. 🎉 Merged PR [#1](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course/pull/1) in [brianobot/multi-ai-agents-systems-with-crewai-course](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course)
+1. 🎉 Merged PR [#3](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course/pull/3) in [brianobot/multi-ai-agents-systems-with-crewai-course](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course)
+2. 💪 Opened PR [#3](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course/pull/3) in [brianobot/multi-ai-agents-systems-with-crewai-course](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course)
+3. 🎉 Merged PR [#2](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course/pull/2) in [brianobot/multi-ai-agents-systems-with-crewai-course](https://github.com/brianobot/multi-ai-agents-systems-with-crewai-course)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
