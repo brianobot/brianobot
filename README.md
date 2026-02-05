@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brianobot/Devyan/pull/1) in [brianobot/Devyan](https://github.com/brianobot/Devyan)
-2. ℹ️ Assigned PR [#1](https://github.com/brianobot/Devyan/pull/1) in [brianobot/Devyan](https://github.com/brianobot/Devyan)
-3. 💪 Opened PR [#1](https://github.com/brianobot/Devyan/pull/1) in [brianobot/Devyan](https://github.com/brianobot/Devyan)
+1. 🎉 Merged PR [#1](https://github.com/brianobot/advent-of-codes-solutions/pull/1) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
+2. ℹ️ Assigned PR [#1](https://github.com/brianobot/advent-of-codes-solutions/pull/1) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
+3. 💪 Opened PR [#1](https://github.com/brianobot/advent-of-codes-solutions/pull/1) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
