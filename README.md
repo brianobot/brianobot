@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#12](https://github.com/brianobot/fastapi-project-gen8/pull/12) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-2. 💪 Opened PR [#12](https://github.com/brianobot/fastapi-project-gen8/pull/12) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-3. 🎉 Merged PR [#11](https://github.com/brianobot/fastapi-project-gen8/pull/11) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+1. 🎉 Merged PR [#1](https://github.com/brianobot/Devyan/pull/1) in [brianobot/Devyan](https://github.com/brianobot/Devyan)
+2. ℹ️ Assigned PR [#1](https://github.com/brianobot/Devyan/pull/1) in [brianobot/Devyan](https://github.com/brianobot/Devyan)
+3. 💪 Opened PR [#1](https://github.com/brianobot/Devyan/pull/1) in [brianobot/Devyan](https://github.com/brianobot/Devyan)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
