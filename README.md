@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brianobot/advent-of-codes-solutions/pull/1) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
-2. ℹ️ Assigned PR [#1](https://github.com/brianobot/advent-of-codes-solutions/pull/1) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
-3. 💪 Opened PR [#1](https://github.com/brianobot/advent-of-codes-solutions/pull/1) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
+1. 🎉 Merged PR [#3](https://github.com/brianobot/advent-of-codes-solutions/pull/3) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
+2. ℹ️ Assigned PR [#3](https://github.com/brianobot/advent-of-codes-solutions/pull/3) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
+3. 💪 Opened PR [#3](https://github.com/brianobot/advent-of-codes-solutions/pull/3) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
