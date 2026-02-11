@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/brianobot/learning_rust/pull/41) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
-2. ℹ️ Assigned PR [#41](https://github.com/brianobot/learning_rust/pull/41) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
-3. 💪 Opened PR [#41](https://github.com/brianobot/learning_rust/pull/41) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+1. ℹ️ Assigned PR [#2](https://github.com/brianobot/rust-zero-to-production/pull/2) in [brianobot/rust-zero-to-production](https://github.com/brianobot/rust-zero-to-production)
+2. 💪 Opened PR [#2](https://github.com/brianobot/rust-zero-to-production/pull/2) in [brianobot/rust-zero-to-production](https://github.com/brianobot/rust-zero-to-production)
+3. 🎉 Merged PR [#1](https://github.com/brianobot/rust-zero-to-production/pull/1) in [brianobot/rust-zero-to-production](https://github.com/brianobot/rust-zero-to-production)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
