@@ -17,10 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
-Some Notable Personal Inspirations
-- <a href="https://github.com/brianobot">Myself</a>
-- <a href="https://github.com/theyashwanthsai">Sai</a>
-- <a href="https://mattrighetti.com/about">mattrighetti</a>
 <!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
