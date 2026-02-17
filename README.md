@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/reinesana/SAT0RU/pull/4#issuecomment-3907310660) in [reinesana/SAT0RU](https://github.com/reinesana/SAT0RU)
-2. 💪 Opened PR [#4](https://github.com/reinesana/SAT0RU/pull/4) in [reinesana/SAT0RU](https://github.com/reinesana/SAT0RU)
-3. ℹ️ Assigned PR [#4](https://github.com/brianobot/rust-zero-to-production/pull/4) in [brianobot/rust-zero-to-production](https://github.com/brianobot/rust-zero-to-production)
+1. 🎉 Merged PR [#42](https://github.com/brianobot/learning_rust/pull/42) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+2. ℹ️ Assigned PR [#42](https://github.com/brianobot/learning_rust/pull/42) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+3. 💪 Opened PR [#42](https://github.com/brianobot/learning_rust/pull/42) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
