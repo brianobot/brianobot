@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#81](https://github.com/em1208/adrf/issues/81) in [em1208/adrf](https://github.com/em1208/adrf)
-2. 🎉 Merged PR [#12](https://github.com/brianobot/fastapi-project-gen8/pull/12) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-3. 🚀 Published release [fastapi-gen8-0.0.10](https://github.com/brianobot/fastapi-project-gen8/releases/tag/0.0.10) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+1. 🎉 Merged PR [#43](https://github.com/brianobot/learning_rust/pull/43) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+2. ❗ Opened issue [#81](https://github.com/em1208/adrf/issues/81) in [em1208/adrf](https://github.com/em1208/adrf)
+3. 🎉 Merged PR [#12](https://github.com/brianobot/fastapi-project-gen8/pull/12) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
