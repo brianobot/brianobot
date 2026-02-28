@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/brianobot/fastAPI_project_structure/pull/10) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
-2. ℹ️ Assigned PR [#10](https://github.com/brianobot/fastAPI_project_structure/pull/10) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
-3. 💪 Opened PR [#10](https://github.com/brianobot/fastAPI_project_structure/pull/10) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
+1. 🎉 Merged PR [#11](https://github.com/brianobot/fastAPI_project_structure/pull/11) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
+2. ℹ️ Assigned PR [#11](https://github.com/brianobot/fastAPI_project_structure/pull/11) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
+3. 💪 Opened PR [#11](https://github.com/brianobot/fastAPI_project_structure/pull/11) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
 <!--END_SECTION:activity-->
 
  ## 📈 GitHub Stats  
