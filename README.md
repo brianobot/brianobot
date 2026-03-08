@@ -7,13 +7,8 @@
 3. ℹ️ Assigned PR [#47](https://github.com/brianobot/learning_rust/pull/47) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
 <!--END_SECTION:activity-->
 
- ## 📈 GitHub Stats  
-<div>  
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
-</div>  
-
-<img src="https://streak-stats.demolab.com?user=brianobot&theme=tokyonight&hide_border=true" />
-
+## 📈 GitHub Stats  
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
