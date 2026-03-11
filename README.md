@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/EgeUnlu35/penny_crypto_bot/pull/1) in [EgeUnlu35/penny_crypto_bot](https://github.com/EgeUnlu35/penny_crypto_bot)
-2. 🎉 Merged PR [#47](https://github.com/brianobot/learning_rust/pull/47) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
-3. ℹ️ Assigned PR [#47](https://github.com/brianobot/learning_rust/pull/47) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+1. 🎉 Merged PR [#12](https://github.com/brianobot/fastAPI_project_structure/pull/12) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
+2. ℹ️ Assigned PR [#12](https://github.com/brianobot/fastAPI_project_structure/pull/12) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
+3. 💪 Opened PR [#12](https://github.com/brianobot/fastAPI_project_structure/pull/12) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
