@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/brianobot/brid_enyata_hackathon_project/pull/17) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
-2. 💪 Opened PR [#17](https://github.com/brianobot/brid_enyata_hackathon_project/pull/17) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
-3. 🎉 Merged PR [#16](https://github.com/brianobot/brid_enyata_hackathon_project/pull/16) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
+1. 🎉 Merged PR [#6](https://github.com/brianobot/py-lox/pull/6) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+2. ℹ️ Assigned PR [#6](https://github.com/brianobot/py-lox/pull/6) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+3. 💪 Opened PR [#6](https://github.com/brianobot/py-lox/pull/6) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
