@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/brianobot/brid_enyata_hackathon_project/pull/36) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
-2. 💪 Opened PR [#36](https://github.com/brianobot/brid_enyata_hackathon_project/pull/36) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
-3. 🎉 Merged PR [#35](https://github.com/brianobot/brid_enyata_hackathon_project/pull/35) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
+1. 🎉 Merged PR [#37](https://github.com/brianobot/brid_enyata_hackathon_project/pull/37) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
+2. 💪 Opened PR [#37](https://github.com/brianobot/brid_enyata_hackathon_project/pull/37) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
+3. 🎉 Merged PR [#36](https://github.com/brianobot/brid_enyata_hackathon_project/pull/36) in [brianobot/brid_enyata_hackathon_project](https://github.com/brianobot/brid_enyata_hackathon_project)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
