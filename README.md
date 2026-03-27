@@ -10,6 +10,9 @@
 ## 📈 GitHub Stats  
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brianobot&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
+
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
