@@ -10,8 +10,10 @@
 ## 📈 GitHub Stats  
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=brianobot&theme=vue-dark&no-frame=true&no-bg=false&margin-w=4)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=vue-dark&hide_border=false)<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
