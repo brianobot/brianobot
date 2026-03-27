@@ -8,13 +8,13 @@
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=brianobot&show_icons=true&theme=tokyonight" width="48%" height="250px" />  
+<p align="center">
+<a href="https://github.com/brianobot">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brianobot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianobot&layout=compact&langs_count=8&theme=algolia&hide=html,css"/>
+</a>
+</p>
 
-<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianobot&theme=vue-dark&hide_border=false)<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianobot&size_weight=0.5&count_weight=0.5)
-
--->
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
