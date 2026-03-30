@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/rust-ui/ui/issues/3#issuecomment-4150189419) in [rust-ui/ui](https://github.com/rust-ui/ui)
-2. 💪 Opened PR [#5](https://github.com/rust-ui/ui/pull/5) in [rust-ui/ui](https://github.com/rust-ui/ui)
-3. 🎉 Merged PR [#11](https://github.com/brianobot/py-lox/pull/11) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+1. 🎉 Merged PR [#12](https://github.com/brianobot/py-lox/pull/12) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+2. ℹ️ Assigned PR [#12](https://github.com/brianobot/py-lox/pull/12) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+3. 💪 Opened PR [#12](https://github.com/brianobot/py-lox/pull/12) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
