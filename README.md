@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/brianobot/fastAPI_project_structure/pull/16) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
-2. ℹ️ Assigned PR [#16](https://github.com/brianobot/fastAPI_project_structure/pull/16) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
-3. 💪 Opened PR [#16](https://github.com/brianobot/fastAPI_project_structure/pull/16) in [brianobot/fastAPI_project_structure](https://github.com/brianobot/fastAPI_project_structure)
+1. 🎉 Merged PR [#15](https://github.com/brianobot/py-lox/pull/15) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+2. ℹ️ Assigned PR [#15](https://github.com/brianobot/py-lox/pull/15) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+3. 💪 Opened PR [#15](https://github.com/brianobot/py-lox/pull/15) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
