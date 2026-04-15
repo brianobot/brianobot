@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/brianobot/py-lox/pull/26) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
-2. ℹ️ Assigned PR [#26](https://github.com/brianobot/py-lox/pull/26) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
-3. 💪 Opened PR [#26](https://github.com/brianobot/py-lox/pull/26) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+1. 🎉 Merged PR [#27](https://github.com/brianobot/py-lox/pull/27) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+2. ℹ️ Assigned PR [#27](https://github.com/brianobot/py-lox/pull/27) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
+3. 💪 Opened PR [#27](https://github.com/brianobot/py-lox/pull/27) in [brianobot/py-lox](https://github.com/brianobot/py-lox)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
