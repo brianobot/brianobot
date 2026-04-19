@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Brian</h1>
+<h1>👋🏾 Hi, I'm Brian</h1>
 
 A Backend Engineer passionate about mastering and building elegant softwares that stand the test of time and space. I thrive on building scalable solutions, exploring algo-trading, fintech, and Web3, and crafting innovative software. When I'm not coding, I enjoy Chess, Sci-Fi, Quantum Qhysics, and Skydiving (one day!). Always eager to learn, build, and share knowledge.
 
