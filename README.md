@@ -2,9 +2,9 @@
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/brianobot/idiomatic_rust/pull/1) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
-2. ℹ️ Assigned PR [#1](https://github.com/brianobot/idiomatic_rust/pull/1) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
-3. 💪 Opened PR [#1](https://github.com/brianobot/idiomatic_rust/pull/1) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
+1. 🎉 Merged PR [#3](https://github.com/brianobot/idiomatic_rust/pull/3) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
+2. ℹ️ Assigned PR [#3](https://github.com/brianobot/idiomatic_rust/pull/3) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
+3. 💪 Opened PR [#3](https://github.com/brianobot/idiomatic_rust/pull/3) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
