@@ -4,9 +4,9 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/brianobot/idiomatic_rust/pull/8) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
-2. ℹ️ Assigned PR [#8](https://github.com/brianobot/idiomatic_rust/pull/8) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
-3. 💪 Opened PR [#8](https://github.com/brianobot/idiomatic_rust/pull/8) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
+1. 🎉 Merged PR [#9](https://github.com/brianobot/idiomatic_rust/pull/9) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
+2. ℹ️ Assigned PR [#9](https://github.com/brianobot/idiomatic_rust/pull/9) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
+3. 💪 Opened PR [#9](https://github.com/brianobot/idiomatic_rust/pull/9) in [brianobot/idiomatic_rust](https://github.com/brianobot/idiomatic_rust)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
