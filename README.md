@@ -4,9 +4,9 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brianobot/code_like_a_pro_in_rust/pull/2) in [brianobot/code_like_a_pro_in_rust](https://github.com/brianobot/code_like_a_pro_in_rust)
-2. ℹ️ Assigned PR [#2](https://github.com/brianobot/code_like_a_pro_in_rust/pull/2) in [brianobot/code_like_a_pro_in_rust](https://github.com/brianobot/code_like_a_pro_in_rust)
-3. 💪 Opened PR [#2](https://github.com/brianobot/code_like_a_pro_in_rust/pull/2) in [brianobot/code_like_a_pro_in_rust](https://github.com/brianobot/code_like_a_pro_in_rust)
+1. 🎉 Merged PR [#3](https://github.com/brianobot/code_like_a_pro_in_rust/pull/3) in [brianobot/code_like_a_pro_in_rust](https://github.com/brianobot/code_like_a_pro_in_rust)
+2. ℹ️ Assigned PR [#3](https://github.com/brianobot/code_like_a_pro_in_rust/pull/3) in [brianobot/code_like_a_pro_in_rust](https://github.com/brianobot/code_like_a_pro_in_rust)
+3. 💪 Opened PR [#3](https://github.com/brianobot/code_like_a_pro_in_rust/pull/3) in [brianobot/code_like_a_pro_in_rust](https://github.com/brianobot/code_like_a_pro_in_rust)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
