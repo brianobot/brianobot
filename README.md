@@ -4,9 +4,9 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/brianobot/web_service_monitor/pull/2) in [brianobot/web_service_monitor](https://github.com/brianobot/web_service_monitor)
-2. ℹ️ Assigned PR [#2](https://github.com/brianobot/web_service_monitor/pull/2) in [brianobot/web_service_monitor](https://github.com/brianobot/web_service_monitor)
-3. 💪 Opened PR [#2](https://github.com/brianobot/web_service_monitor/pull/2) in [brianobot/web_service_monitor](https://github.com/brianobot/web_service_monitor)
+1. 🎉 Merged PR [#3](https://github.com/brianobot/web_service_monitor/pull/3) in [brianobot/web_service_monitor](https://github.com/brianobot/web_service_monitor)
+2. ℹ️ Assigned PR [#3](https://github.com/brianobot/web_service_monitor/pull/3) in [brianobot/web_service_monitor](https://github.com/brianobot/web_service_monitor)
+3. 💪 Opened PR [#3](https://github.com/brianobot/web_service_monitor/pull/3) in [brianobot/web_service_monitor](https://github.com/brianobot/web_service_monitor)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
