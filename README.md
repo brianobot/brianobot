@@ -18,10 +18,13 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 </a>
 </p>
 
+![GitHub GIF](githubgif.gif)
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=brianobot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
+
+
 
 <!--
 brianobot/brianobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
