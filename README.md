@@ -6,9 +6,9 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#16](https://github.com/brianobot/fastapi-project-gen8/pull/16) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-2. 💪 Opened PR [#16](https://github.com/brianobot/fastapi-project-gen8/pull/16) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
-3. 🎉 Merged PR [#15](https://github.com/brianobot/fastapi-project-gen8/pull/15) in [brianobot/fastapi-project-gen8](https://github.com/brianobot/fastapi-project-gen8)
+1. 🎉 Merged PR [#22](https://github.com/brianobot/web_service_monitor_frontend/pull/22) in [brianobot/web_service_monitor_frontend](https://github.com/brianobot/web_service_monitor_frontend)
+2. ℹ️ Assigned PR [#22](https://github.com/brianobot/web_service_monitor_frontend/pull/22) in [brianobot/web_service_monitor_frontend](https://github.com/brianobot/web_service_monitor_frontend)
+3. 💪 Opened PR [#22](https://github.com/brianobot/web_service_monitor_frontend/pull/22) in [brianobot/web_service_monitor_frontend](https://github.com/brianobot/web_service_monitor_frontend)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
