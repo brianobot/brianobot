@@ -6,9 +6,9 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com/brianobot/learning-tokio-rs/pull/194) in [brianobot/learning-tokio-rs](https://github.com/brianobot/learning-tokio-rs)
-2. ℹ️ Assigned PR [#194](https://github.com/brianobot/learning-tokio-rs/pull/194) in [brianobot/learning-tokio-rs](https://github.com/brianobot/learning-tokio-rs)
-3. 💪 Opened PR [#194](https://github.com/brianobot/learning-tokio-rs/pull/194) in [brianobot/learning-tokio-rs](https://github.com/brianobot/learning-tokio-rs)
+1. 🎉 Merged PR [#33](https://github.com/brianobot/web_service_monitor_frontend/pull/33) in [brianobot/web_service_monitor_frontend](https://github.com/brianobot/web_service_monitor_frontend)
+2. 🎉 Merged PR [#31](https://github.com/brianobot/web_service_monitor_frontend/pull/31) in [brianobot/web_service_monitor_frontend](https://github.com/brianobot/web_service_monitor_frontend)
+3. 🎉 Merged PR [#30](https://github.com/brianobot/web_service_monitor_frontend/pull/30) in [brianobot/web_service_monitor_frontend](https://github.com/brianobot/web_service_monitor_frontend)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
