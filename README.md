@@ -6,9 +6,9 @@ A Backend Engineer passionate about mastering and building elegant softwares tha
 
 ## Recent Open Source Activities ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/brianobot/advent-of-codes-solutions/pull/5) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
-2. 💪 Opened PR [#5](https://github.com/brianobot/advent-of-codes-solutions/pull/5) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
-3. 🎉 Merged PR [#195](https://github.com/brianobot/learning-tokio-rs/pull/195) in [brianobot/learning-tokio-rs](https://github.com/brianobot/learning-tokio-rs)
+1. 🎉 Merged PR [#49](https://github.com/brianobot/learning_rust/pull/49) in [brianobot/learning_rust](https://github.com/brianobot/learning_rust)
+2. 🎉 Merged PR [#5](https://github.com/brianobot/advent-of-codes-solutions/pull/5) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
+3. 💪 Opened PR [#5](https://github.com/brianobot/advent-of-codes-solutions/pull/5) in [brianobot/advent-of-codes-solutions](https://github.com/brianobot/advent-of-codes-solutions)
 <!--END_SECTION:activity-->
 
 ## 📈 GitHub Stats  
